@@ -12,6 +12,11 @@ body {
      font-weight: 300;
      background-color: #7AFAFA
 }
+#navbar{
+	float:right;
+	margin-right: 10%;
+}
+
 
 .text-align-center{
 	text-align: center;
@@ -28,5 +33,11 @@ body {
 }
 
 #text-holder > h1{
-	     color: #4152a1
+	color: #4152a1
+}
+
+#img-text-holder{
+	border-style: solid;
+	border-top: thin solid green;
+	border-bottom: thin solid green;
 }
