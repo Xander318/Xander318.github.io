@@ -1,3 +1,12 @@
+#title>a{
+	color:#4152a1;
+}
+
+a{
+	text-decoration: none;
+}
+
+
 img {
     height: auto;
     width: auto;
@@ -16,6 +25,17 @@ body {
 	float:right;
 	margin-right: 10%;
 }
+li > a:link, li > a:visited{
+	color: black;
+}
+
+li > a:hover, li > a:active{
+	color: rgb(125, 0, 125);
+}
+
+
+
+
 ul{
 	list-style-type: none;
 	margin: 0;
@@ -28,11 +48,12 @@ li {
 li > a {
 	display: block;
 	padding: 8px;
-	background-color: #dddddd;
+	background-color: #0688dd;
 	text-decoration: none;
 }
-
-
+.text-align-center > a{
+	color: black;
+}
 
 .text-align-center{
 	text-align: center;
@@ -45,7 +66,7 @@ li > a {
 
 #title{
 	margin-left: 10%;
-	color: #4152a1
+	width: 300px;
 }
 
 #text-holder > h1{
