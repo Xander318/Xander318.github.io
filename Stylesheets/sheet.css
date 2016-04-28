@@ -96,7 +96,8 @@ li > a {
 }
 #footer > p{
 	float: left;
-	margin-left: 5%;
+	bottom: 10px;
 	position: absolute;
+	margin-left: 5%;
 	font-size: 14px;
 }
