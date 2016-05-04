@@ -30,6 +30,7 @@ body {
 #navbar{
 	float:right;
 	margin-left: 50%;
+	right:20%;
 	display: inline;
 	background-color: #0688dd;
 	border: 4px solid #0688dd;
