@@ -15,12 +15,12 @@ img {
     height: auto;
     width: auto;
     max-width: 50%;
-    max-height: 250px;
+	max-height: 50%;
     float: left;
     margin-left: 5%;
-    margin-right: 5%;
-	margin-top: 5%;
-	margin-bottom:5%;
+    margin-right: 2%;
+	margin-top: .5%;
+	margin-bottom:.5%;
 }
 body {
      font-family: 'Source Sans Pro';
@@ -75,7 +75,7 @@ li > a {
 }
 
 #title{
-	margin-left: 10%;
+	margin-left: 6%;
 	width: 300px;
 	display: inline;
 }
@@ -108,7 +108,7 @@ li > a {
 	float: left;
 	bottom: 0;
 	position: absolute;
-	margin-left: 5%;
+	margin-left: 6%;
 	font-size: 14px;
 	display: block;
 }
