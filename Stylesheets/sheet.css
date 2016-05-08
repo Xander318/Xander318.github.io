@@ -25,7 +25,7 @@ img {
 body {
      font-family: 'Source Sans Pro';
      font-weight: 300;
-     background-color: #7AFAFA
+     background-color: rgba(250, 233, 210, 0.81);
 }
 #navbar{
 	float:right;
